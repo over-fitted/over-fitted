@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-### Modules
+## Past Modules
 #### [CS2102 Intro to Databases](https://github.com/over-fitted/CS2102-Project)
 Team of 5 designed a database schema and implemented the database in PostgreSQL with triggers and procedures. 
 #### [CS3223 Databases Systems Implementation]
 Team of 3 added features to SimpleDB, a Java-based stripped-down SQL DBMS. We added query optimisation, table joins and index usage among other features, with corresponding syntax lexing and parsing.
+
+## Current Modules
 #### [CS2106 Operating Systems](https://github.com/over-fitted/cs2106)
 #### [CS3210 Parallel Computing](https://github.com/over-fitted/CS3210)
 <!--
