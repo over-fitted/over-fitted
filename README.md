@@ -9,6 +9,17 @@ Team of 3 added features to SimpleDB, a Java-based stripped-down SQL DBMS. We ad
 ## Current Modules
 #### [CS2106 Operating Systems](https://github.com/over-fitted/cs2106)
 #### [CS3210 Parallel Computing](https://github.com/over-fitted/CS3210)
+
+## 🔭 I’m currently working on
+#### [NUS Museum Collections Database refactor](https://github.com/over-fitted/nus-museum)
+
+## 🌱 I’m currently learning
+#### Distributed Systems
+#### Web Development with NextJS
+#### Algorithms at Scale
+#### Interaction Design
+#### Functional Programming
+#### Japanese!!!
 <!--
 **over-fitted/over-fitted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
