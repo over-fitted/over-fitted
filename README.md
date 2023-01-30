@@ -7,8 +7,10 @@ Currently working on improving my Web Development skills, stay tuned for my new 
 ## Past Projects
 #### [Coffier - Hack and Roll 2023](https://github.com/hrtowii/hnr2023)
 Hackathon React Native/Typescript project working with 3 pre-university students.
+
 Coffier is a Coffee Timer app meant to accompany users of James Hoffman's coffee brewing techniques, abstracting the guesswork and timer management away from the user.
 We focused on improving the usability of the app for intermediate users, primarily by reducing the number of clicks required to brew coffee and reducing visual clutter, so that we could personally find use with this app past the hackathon. (Success, I still use it to this day!)
+
 Find the app on the [Play Store](https://play.google.com/store/apps/details?id=com.hnr2023.coffier)
 
 ## Past School Projects
