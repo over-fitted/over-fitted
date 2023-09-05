@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Andrew, a Year 3 CS Major! I'm interested in cool stuff that really makes you think, and in the realm of CS that has taken me all over the place from data engineering to parallel computing. Always looking for a new shiny thing to add to my never-ending backlog of study material.
+I'm Andrew, a Year 4 CS Major! I'm interested in cool stuff that really makes you think, and in the realm of CS that has taken me all over the place from data engineering to parallel computing. Always looking for a new shiny thing to add to my never-ending backlog of study material.
 
 Currently working on improving my Web Development skills, stay tuned for my new website!
 
@@ -38,16 +38,11 @@ resulting in 20% speedup.
 ##### Troons V2
 Same as Troons V1, but using MPI.
 
-## Current Modules
-#### CS3211 Parallel and Concurrent Programming
-#### CS4222 Wireless Networks
-#### CS3245 Information Retrieval
-
 ## 🔭 I’m currently working on
-#### [NUS Museum Collections Database refactor](https://github.com/over-fitted/nus-museum)
+#### My Blog
 
 ## 🌱 I’m currently learning
-#### Distributed Systems
+#### Docker, Kubernetes
 #### Web Development with NextJS
 #### Algorithms at Scale
 #### Interaction Design
